@@ -1,0 +1,5 @@
+{
+  "name": "DataFlow Pro - 自动化备份管理系统",
+  "description": "企业级数据编排界面，具备每10分钟一次的自动状态缓存与快照恢复功能，确保复杂 ETL 配置过程中的数据零丢失。",
+  "requestFramePermissions": []
+}
